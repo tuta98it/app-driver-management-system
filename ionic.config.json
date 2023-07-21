@@ -1,0 +1,7 @@
+{
+  "name": "app-driver-management-system",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
