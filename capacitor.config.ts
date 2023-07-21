@@ -1,7 +1,7 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
+  appId: 'com.msc.driver',
   appName: 'app-driver-management-system',
   webDir: 'www',
   server: {
