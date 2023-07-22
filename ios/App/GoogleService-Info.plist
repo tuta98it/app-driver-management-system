@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>609404028550-g41vgtbqd3rclsdc6hqt42s3ued0bnkl.apps.googleusercontent.com</string>
+	<string>445464166041-69d5okdgkjqrcom0ajtr55ap951g872i.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.609404028550-g41vgtbqd3rclsdc6hqt42s3ued0bnkl</string>
+	<string>com.googleusercontent.apps.445464166041-69d5okdgkjqrcom0ajtr55ap951g872i</string>
 	<key>API_KEY</key>
-	<string>AIzaSyAOgbvbTPsSZj0jMv4NOOh0ljxOYiIf_r0</string>
+	<string>AIzaSyB-aiV4SzBvA1KRm0TcWXAtEga1NJMvFCQ</string>
 	<key>GCM_SENDER_ID</key>
-	<string>609404028550</string>
+	<string>445464166041</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>com.msc.driver</string>
 	<key>PROJECT_ID</key>
-	<string>driver-management-system-834c9</string>
+	<string>driver-f9281</string>
 	<key>STORAGE_BUCKET</key>
-	<string>driver-management-system-834c9.appspot.com</string>
+	<string>driver-f9281.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:609404028550:ios:80d41a07ef0b559aeff307</string>
+	<string>1:445464166041:ios:7b0a7f2ed38d4541424208</string>
 </dict>
 </plist>

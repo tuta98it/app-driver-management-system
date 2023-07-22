@@ -1,41 +1,40 @@
 {
   "project_info": {
-    "project_number": "609404028550",
-    "project_id": "driver-management-system-834c9",
-    "storage_bucket": "driver-management-system-834c9.appspot.com"
+    "project_number": "445464166041",
+    "project_id": "driver-f9281",
+    "storage_bucket": "driver-f9281.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:609404028550:android:63b7ae720dbb903beff307",
+        "mobilesdk_app_id": "1:445464166041:android:a2c2c1d548552cc1424208",
         "android_client_info": {
-          "package_name": "com.msc.dirver"
+          "package_name": "com.msc.driver"
         }
       },
       "oauth_client": [
         {
-          "client_id": "609404028550-qgaddpkkv22vhuku639druta258lgh19.apps.googleusercontent.com",
+          "client_id": "445464166041-eivl50c9o5migsr6s4elpjieof9b53ir.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAMCoLvIeZzS-z0e4B74lwhxZk4R_jg0OM"
+          "current_key": "AIzaSyDORcZG48RNC7MH8Lnj6iJOw2bfsQvbuxA"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "609404028550-qgaddpkkv22vhuku639druta258lgh19.apps.googleusercontent.com",
+              "client_id": "445464166041-eivl50c9o5migsr6s4elpjieof9b53ir.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "609404028550-g41vgtbqd3rclsdc6hqt42s3ued0bnkl.apps.googleusercontent.com",
+              "client_id": "445464166041-69d5okdgkjqrcom0ajtr55ap951g872i.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.msc.driver",
-                "app_store_id": "10295189450294"
+                "bundle_id": "com.msc.driver"
               }
             }
           ]
